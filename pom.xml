@@ -18,7 +18,6 @@
             <url>http://cmcdonald:draperseven@nexus.draperinc.com/repository/draper-maven-snapshots-1</url>
         </snapshotRepository>
     </distributionManagement>
-
     <dependencyManagement>
         <dependencies>
             <dependency>
