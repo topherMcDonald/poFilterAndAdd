@@ -8,6 +8,16 @@
     <packaging>jar</packaging>
     <version>1.0-SNAPSHOT</version>
     <name>po-filter-and-add</name>
+    <distributionManagement>
+        <repository>
+            <id>draper-maven-releases-1</id>
+            <url>http://cmcdonald:draperseven@nexus.draperinc.com/repository/draper-maven-releases-1</url>
+        </repository>
+        <snapshotRepository>
+            <id>draper-maven-snapshots-1</id>
+            <url>http://cmcdonald:draperseven@nexus.draperinc.com/repository/draper-maven-snapshots-1</url>
+        </snapshotRepository>
+    </distributionManagement>
 
     <dependencyManagement>
         <dependencies>
