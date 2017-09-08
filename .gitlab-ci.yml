@@ -1,0 +1,6 @@
+maven_build:
+  script:
+    - mvn clean deploy
+  artifacts:
+    paths:
+      - target/*.jar
