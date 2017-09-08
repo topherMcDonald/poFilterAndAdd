@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="43082f4c-8841-497f-beae-0656756aaad6" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test file.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="43082f4c-8841-497f-beae-0656756aaad6" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -296,7 +293,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1504880329845</updated>
-      <workItem from="1504880332792" duration="5764000" />
+      <workItem from="1504880332792" duration="5830000" />
     </task>
     <task id="LOCAL-00001" summary="Updated deprecated code.">
       <created>1504881752699</created>
@@ -305,7 +302,14 @@
       <option name="project" value="LOCAL" />
       <updated>1504881752699</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Updated deprecated code.">
+      <created>1504893874948</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1504893874948</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -314,7 +318,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5764000" />
+    <option name="totallyTimeSpent" value="5830000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="14" width="1936" height="1056" extended-state="0" />
